@@ -34,6 +34,8 @@
 - **Ping Pong** | [Link](https://github.com/prabudhd2003/ping_pong_game)
     - Created a two-player Ping Pong game using C++ and raylib, showcasing skills in game physics, collision detection, and OOP concepts such as classes for paddles, balls, and game rules.
 
-
-
+## Certifications:
+1. [AWS Fundamentals Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/5GY362NUY6XP), AWS/Coursera, Aug 2024 
+2. [Natural Language Processing Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/TBPQHRAKKCG8), DeepLearning.AI/ Coursera, Sep 2023                                          
+3. [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/ER55XVU8A5RV), Stanford University/Coursera, Mar 2023
 
