@@ -2,7 +2,7 @@
 - 💻 Passionate about deep learning, competitive programming, and quantitative trading, I’m always seeking new challenges to push my limits.
 - 📫 Feel free to connect with me via email at [prabudhd@gmail.com](prabudhd@gmail.com) or through LinkedIn: [Prabudhd Kandpal.](https://www.linkedin.com/in/prabudhd/)
 
-## Acadmeic Projects:
+## Academic Projects:
 1. **Title: RAG-Driven PDF Query Tool**  | [Link](https://github.com/prabudhd2003/rag_for_pdf)                                                                                                       
 - Developed the tool from scratch, implementing document preprocessing to split the PDF into smaller chunks, generating embeddings to represent these chunks and user queries for efficient matching using a sentence-transformer model. 
 - Leveraged a BERT-based model to generate answers based on relevant passages retrieved from the text, ensuring accurate and context-aware responses.
