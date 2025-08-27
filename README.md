@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Prabudhd Kandpal, a final-year B.Tech student specializing in Artificial Intelligence & Machine Learning.
-- 💻 Passionate about deep learning, competitive programming, and quantitative trading, I’m always seeking new challenges to push my limits.
-- 📫 Feel free to connect with me via email at [prabudhd@gmail.com](prabudhd@gmail.com) or through LinkedIn: [Prabudhd Kandpal.](https://www.linkedin.com/in/prabudhd/)
+- 👋 Hi, I’m Prabudhd Kandpal, currently pursuing my Master’s in Computer Science (AI Track) at USC Viterbi School of Engineering.
+- 💻 I’m passionate about machine learning, deep learning, competitive programming, and quantitative trading, and I’m always seeking new challenges to push my limits.
+- 📫 Feel free to connect with me via email at [pkandpal@usc.edu](pkandpal@usc.edu) or through LinkedIn: [Prabudhd Kandpal.](https://www.linkedin.com/in/prabudhd/)
 
 ## Academic Projects:
 1. **Title: RAG-Driven PDF Query Tool**  | [Link](https://github.com/prabudhd2003/rag_for_pdf)                                                                                                       
